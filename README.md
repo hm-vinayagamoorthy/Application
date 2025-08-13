@@ -2,8 +2,8 @@
 # Dual File Upload - Next.js 15 + React 18 + MUI
 
 This sample demonstrates a modular, extensible dual-file upload component where:  
-- File A: **mandatory**  
-- File B: **optional**  
+- employee_list: **mandatory**  
+- previous_year_list: **optional**  
 - Accepted formats: `.xlsx`, `.csv`  
 
 Features: OOP-based `FileUploader` service, Route Handler API to receive files, MUI UI, validations, tests.
